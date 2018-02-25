@@ -1,0 +1,6 @@
+[requires]
+blaze/3.3@conan/release
+cmake_find_paths/0.1@user/testing
+
+[generators]
+cmake_find_paths
